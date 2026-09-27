@@ -12,6 +12,7 @@ const capabilities = [
 const work = [
   { title: 'Photography', domain: 'seanlyder.com', label: 'Personal photography', href: 'https://seanlyder.com', preview: '/assets/projects/seanlyder.com.webp' },
   { title: "Sophia's Lattes", domain: 'sophiaslattes.com', label: 'Independent hospitality', href: 'https://sophiaslattes.com', preview: '/assets/projects/sophiaslattes.com.webp' },
+  { title: 'Sophia Lyder', domain: 'sophialyder.com', label: 'Author', href: 'https://sophialyder.com', preview: '/assets/projects/sophialyder.com.webp' },
   { title: 'TruePeak US (This)', domain: 'truepeak.us', label: 'Company system', href: 'https://truepeak.us', preview: '/assets/projects/truepeak.us.webp' },
   { title: 'Old Scripts Showcase', domain: 'showcase.seanlyder.com', label: 'Experiments and output', href: 'https://showcase.seanlyder.com', preview: '/assets/projects/showcase.seanlyder.com.webp' },
   { title: '72 Degrees East, Inc.', domain: '72degreeseast.com', label: 'Company website', href: 'https://72degreeseast.com', preview: '/assets/projects/72degreeseast.com.webp' },
