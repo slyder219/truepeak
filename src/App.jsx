@@ -19,6 +19,7 @@ const work = [
   { title: '72 Degrees East, Inc.', domain: '72degreeseast.com', label: 'Company website', href: 'https://72degreeseast.com', preview: '/assets/projects/72degreeseast.com.webp' },
   { title: 'A Leading Concept LLC', domain: 'aleadingconcept.com', label: 'Company website', href: 'https://aleadingconcept.com', preview: '/assets/projects/aleadingconcept.com.webp' },
   { title: 'Telonote', domain: 'telonote.com', label: 'AI audio note taker with user-context transcription accuracy', href: 'https://telonote.com', preview: '/assets/projects/telonote.com.webp' },
+  { title: 'Telothread', domain: 'telothread.com', label: 'Messaging on your Telonote account', href: 'https://telothread.com', preview: '/assets/projects/telothread.com.webp' },
   { title: 'GitHub', domain: 'github.com/slyder219', label: 'Working code', href: 'https://github.com/slyder219', preview: '/assets/projects/github.webp' },
 ]
 
